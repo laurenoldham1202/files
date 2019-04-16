@@ -1,0 +1,9 @@
+var transform = { 
+	 translateX: 13.373738
+	 translateY: 49.735505
+	 translateZ: 50
+	 rotateX: 0.0
+	 rotateY: 0.0
+	 rotateZ: 0.0
+	 scale: 1
+}
